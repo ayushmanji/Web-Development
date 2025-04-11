@@ -7,3 +7,4 @@ Welcome! Here's a collection of all my web development projects.
  
 📂 [Repository]([https://github.com/yourusername/amazon-clone](https://github.com/ayushmanji/College-Admission-Website.git))  
 📷 ![Preview](./Screenshot_11-4-2025_153635_.jpeg)
+<img src="./Screenshot_11-4-2025_153635_.jpeg" alt="Preview" width="600"/>
