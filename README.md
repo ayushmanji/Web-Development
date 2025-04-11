@@ -7,7 +7,7 @@ Welcome! Here's a collection of all my web development projects.
  
 📂 [Repository]
 
-[<img src="./Screenshot_11-4-2025_153635_.jpeg" alt="Preview" width="400"/>]([https://github.com/ayushmanji/College-Admission-Website.git](https://github.com/ayushmanji/Amazon-Clone-Frontend.git))
+[<img src="./Screenshot_11-4-2025_153635_.jpeg" alt="Preview" width="400"/>](https://github.com/ayushmanji/College-Admission-Website.git)
 
 ---
 
@@ -25,4 +25,14 @@ Welcome! Here's a collection of all my web development projects.
  
 📂 [Repository]
 
-[<img src="./Screenshot_11-4-2025_161527_.jpeg" alt="Preview" width="400"/>]([https://github.com/ayushmanji/College-Admission-Website.git](https://github.com/ayushmanji/IoT-Based-Smart-Farming-Website.git))
+[<img src="./Screenshot_11-4-2025_161527_.jpeg" alt="Preview" width="400"/>](https://github.com/ayushmanji/IoT-Based-Smart-Farming-Website.git)
+
+
+---
+
+📦 Project 4: Sticky-Notes-Website
+**Description**:  A simple and interactive web app for creating, editing, and deleting sticky notes. Notes are stored in the browser using local storage, so users can keep their tasks even after refreshing the page.
+ 
+📂 [Repository]
+
+[<img src="./Screenshot_11-4-2025_164039_.jpeg" alt="Preview" width="400"/>](https://github.com/ayushmanji/Sticky-Notes-Website.git)
