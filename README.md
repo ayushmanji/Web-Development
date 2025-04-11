@@ -36,3 +36,13 @@ Welcome! Here's a collection of all my web development projects.
 📂 [Repository]
 
 [<img src="./Screenshot_11-4-2025_164016_.jpeg" alt="Preview" width="400"/>](https://github.com/ayushmanji/Sticky-Notes-Website.git)
+
+
+---
+
+📦 Project 5: Password-Generator-Website
+**Description**:  A sleek and secure password generator web app that lets users customize length and character types (uppercase, lowercase, numbers, symbols) with instant copy functionality.
+ 
+📂 [Repository]
+
+[<img src="./Screenshot_11-4-2025_164039_.jpeg" alt="Preview" width="400"/>](https://github.com/ayushmanji/Password-Generator-Website.git)
