@@ -35,4 +35,4 @@ Welcome! Here's a collection of all my web development projects.
  
 📂 [Repository]
 
-[<img src="./Screenshot_11-4-2025_164039_.jpeg" alt="Preview" width="400"/>](https://github.com/ayushmanji/Sticky-Notes-Website.git)
+[<img src="./Screenshot_11-4-2025_164016_.jpeg" alt="Preview" width="400"/>](https://github.com/ayushmanji/Sticky-Notes-Website.git)
