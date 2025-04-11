@@ -25,4 +25,4 @@ Welcome! Here's a collection of all my web development projects.
  
 📂 [Repository]
 
-[<img src=".Screenshot_11-4-2025_153635_.jpeg" alt="Preview" width="400"/>]([https://github.com/ayushmanji/College-Admission-Website.git](https://github.com/ayushmanji/IoT-Based-Smart-Farming-Website.git))
+[<img src="./Screenshot_11-4-2025_153635_.jpeg" alt="Preview" width="400"/>]([https://github.com/ayushmanji/College-Admission-Website.git](https://github.com/ayushmanji/IoT-Based-Smart-Farming-Website.git))
